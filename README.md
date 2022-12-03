@@ -1,4 +1,4 @@
-### Minecraft Calculator
+# Minecraft Calculator
 
 - **Position :**
       Calculate the position in the Nether from a position in the Overworld and conversely
